@@ -1,0 +1,13 @@
+3 Types of Control flow statements
+
+1. Decision Making Statements
+    a) if Statements
+    b) switch Statements
+2. Looping Statements
+    a) while
+    b) for loop
+    c) for-each loop
+    d) do-while loop
+3. Jump Statements
+    a) break
+    b) continue
