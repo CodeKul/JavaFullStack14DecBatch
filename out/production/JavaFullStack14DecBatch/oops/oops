@@ -1,0 +1,17 @@
+
+1. object - real world entity.
+            states and behaviours
+            instance of a class.
+
+2. class - collection of object
+            blueprint
+
+3. Inheritance - an object which acquires all properties of parent object
+                  code reusability
+                  achieve run polymorphism
+
+4. polymorphism - a task which performed in different ways
+
+5. Abstraction - hide internal details and show functionality
+
+6. Encapsulation - wrapping data
